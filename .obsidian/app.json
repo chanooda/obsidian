@@ -1,1 +1,6 @@
-{}
+{
+  "showRibbon": false,
+  "newFileLocation": "current",
+  "attachmentFolderPath": "./",
+  "alwaysUpdateLinks": true
+}
