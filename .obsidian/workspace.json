@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "ac2a8cea0b77bbcb",
+        "id": "7b03bfd135e3dcc9",
         "type": "tabs",
         "children": [
           {
-            "id": "8844771f7c8c8ac7",
+            "id": "5caa60afae076ffb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JS/primitive.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "primitive"
+              "title": "새 탭"
             }
           }
         ]
@@ -166,12 +162,25 @@
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-projects:Open projects": false
     }
   },
-  "active": "b7317bdd97a4ea75",
+  "active": "5caa60afae076ffb",
   "lastOpenFiles": [
+    "TS/typeof.md",
+    "Frontend/SVG Animation.md",
+    "etc/PocketBase.md",
+    "Algorithm/leetcode/211. Maximal Square.md",
+    "Algorithm/leetcode",
+    "Algorithm",
+    "Frontend",
+    "무제 파일.md",
+    "etc",
+    "JS/Object.prototype.toString.call.md",
     "JS/primitive.md",
+    "TS",
     "obsidian",
     "JS",
     "무제 파일.canvas",
