@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JS/Javascript 분해.md",
-                "mode": "preview",
+                "file": "Frontend/FSD/FSD Tutorial with Next.js.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Javascript 분해"
+              "title": "FSD Tutorial with Next.js"
             }
           }
         ]
@@ -60,7 +60,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "검색"
             }
           },
           {
@@ -93,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Frontend/FSD/FSD Tutorial with Next.js.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "백링크"
+              "title": "FSD Tutorial with Next.js의 백링크"
             }
           },
           {
@@ -111,11 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Frontend/FSD/FSD Tutorial with Next.js.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "나가는 링크"
+              "title": "FSD Tutorial with Next.js의 나가는 링크"
             }
           },
           {
@@ -137,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JS/Javascript 분해.md"
+                "file": "Frontend/FSD/FSD Tutorial with Next.js.md"
               },
               "icon": "lucide-list",
-              "title": "Javascript 분해 개요"
+              "title": "FSD Tutorial with Next.js 개요"
             }
           },
           {
@@ -152,13 +154,27 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "32037120a96c85f7",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
           }
         ],
         "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 350.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -173,9 +189,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "42eb5c6e76eb367f",
+  "active": "19431455af70d3d4",
   "lastOpenFiles": [
+    "etc/PocketBase.md",
+    "Frontend/FSD/FSD Tutorial with Next.js.md",
+    "Frontend/SVG Animation.md",
     "JS/Javascript 분해.md",
+    "Frontend/FSD",
+    "무제 폴더",
     "Algorithm/data-structure/Heap.md",
     "Algorithm/data-structure/Heap1.webp",
     "힙.webp",
@@ -184,8 +205,6 @@
     "Algorithm/leetcode/341. Flatten Nested List Iterator.md",
     "Algorithm/leetcode/295. Find Median from Data Stream.md",
     "TS/typeof.md",
-    "Frontend/SVG Animation.md",
-    "etc/PocketBase.md",
     "Algorithm/leetcode",
     "Algorithm",
     "Frontend",
@@ -196,8 +215,6 @@
     "TS",
     "obsidian",
     "JS",
-    "무제 파일.canvas",
-    "https:/github.com/chanooda",
-    "https:/github.com"
+    "무제 파일.canvas"
   ]
 }

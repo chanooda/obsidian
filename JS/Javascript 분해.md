@@ -196,7 +196,8 @@ document.querySelector("#reload").addEventListener("click", () => {
 });
 ```
 
-https://codesandbox.io/embed/relaxed-faraday-efj1ry?fontsize=14&hidenavigation=1&theme=dark
+<iframe width="100%" src="https://codesandbox.io/embed/relaxed-faraday-efj1ry?fontsize=14&hidenavigation=1&theme=dark" ></iframe>
+
 
 # **Reference**
 
