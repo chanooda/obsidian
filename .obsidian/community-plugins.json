@@ -4,12 +4,13 @@
   "dataview",
   "obsidian-excalidraw-plugin",
   "execute-code",
-  "highlightr-plugin",
   "obsidian-projects",
   "remember-cursor-position",
   "obsidian-custom-frames",
   "table-editor-obsidian",
   "calendar",
   "obsidian-kanban",
-  "obsidian-tasks-plugin"
+  "obsidian-tasks-plugin",
+  "code-styler",
+  "highlightr-plugin"
 ]
