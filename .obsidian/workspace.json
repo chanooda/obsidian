@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithm/leetcode/543. Diameter of Binary Tree.md",
-                "mode": "source",
+                "file": "Frontend/이미지 최적화.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "543. Diameter of Binary Tree"
+              "title": "이미지 최적화"
             }
           }
         ]
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithm/leetcode/543. Diameter of Binary Tree.md"
+                "file": "Frontend/이미지 최적화.md"
               },
               "icon": "lucide-list",
-              "title": "543. Diameter of Binary Tree 개요"
+              "title": "이미지 최적화 개요"
             }
           },
           {
@@ -203,9 +203,10 @@
   },
   "active": "136a52970edcbf48",
   "lastOpenFiles": [
+    "Algorithm/leetcode/543. Diameter of Binary Tree.md",
+    "Frontend/이미지 최적화.md",
     "Algorithm/data-structure/DFS.md",
     "Algorithm/data-structure/DP.md",
-    "Algorithm/leetcode/543. Diameter of Binary Tree.md",
     "Algorithm/leetcode/403. Frog Jump.md",
     "Algorithm/data-structure/dp.md",
     "Algorithm/leetcode/dp.md",
@@ -228,7 +229,6 @@
     "Frontend/DDD.md",
     "Frontend/SVG Animation.md",
     "etc/test.md",
-    "TS/typeof.md",
     "TS",
     "Algorithm/data-structure/Heap1.webp",
     "Algorithm/leetcode",
