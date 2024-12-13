@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c2ccf49cfdb19aa0",
+        "id": "9b4af5e3dfb08ffa",
         "type": "tabs",
         "children": [
           {
-            "id": "136a52970edcbf48",
+            "id": "5daf28827c6355d8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frontend/이미지 최적화.md",
-                "mode": "preview",
+                "file": "Frontend/FSD/FSD Tutorial with Next.js.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "이미지 최적화"
+              "title": "FSD Tutorial with Next.js"
             }
           }
         ]
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "613e64660d02fbfb",
@@ -139,10 +140,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Frontend/이미지 최적화.md"
+                "file": "Frontend/FSD/FSD Tutorial with Next.js.md"
               },
               "icon": "lucide-list",
-              "title": "이미지 최적화 개요"
+              "title": "FSD Tutorial with Next.js 개요"
             }
           },
           {
@@ -184,7 +185,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,43 +196,43 @@
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
+      "obsidian-kanban:새 보드 만들기": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-projects:Open projects": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-kanban:새 보드 만들기": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "136a52970edcbf48",
+  "active": "5daf28827c6355d8",
   "lastOpenFiles": [
-    "Algorithm/leetcode/543. Diameter of Binary Tree.md",
+    "etc/프론트엔드 참고자료.md",
+    "etc/무제 파일.md",
+    "JS/Scheduler API.md",
     "Frontend/이미지 최적화.md",
+    "Frontend/무제 파일.md",
     "Algorithm/data-structure/DFS.md",
-    "Algorithm/data-structure/DP.md",
-    "Algorithm/leetcode/403. Frog Jump.md",
-    "Algorithm/data-structure/dp.md",
-    "Algorithm/leetcode/dp.md",
-    "Algorithm/data-structure/백트래킹.md",
-    "Algorithm/leetcode/백트래킹.md",
-    "Algorithm/leetcode/437. Path Sum III.md",
-    "Algorithm/leetcode/394. Decode String Excaildraw.md",
-    "Algorithm/leetcode/DFS.md",
+    "Algorithm/data-structure/dfs.md",
+    "Algorithm/leetcode/dfs.md",
+    "Algorithm/leetcode/543. Diameter of Binary Tree.md",
+    "Algorithm/leetcode/무제 파일.md",
+    "Frontend/프론트엔드 프로젝트 아키텍처에 대한 고찰.md",
+    "Frontend/FSD/FSD Tutorial with Next.js.md",
     "Algorithm/leetcode/394. Decode String.md",
+    "Algorithm/leetcode/403. Frog Jump.md",
+    "Algorithm/data-structure/Heap.md",
+    "Algorithm/data-structure/Heap1.webp",
+    "Algorithm/data-structure/백트래킹.md",
+    "Algorithm/data-structure/DP.md",
+    "Algorithm/leetcode/437. Path Sum III.md",
+    "Algorithm/leetcode/DFS.md",
+    "Algorithm/leetcode/394. Decode String Excaildraw.md",
+    "Algorithm/leetcode/Decode String Excaildraw.md",
+    "Algorithm/leetcode/211. Maximal Square.md",
     "Algorithm/leetcode/295. Find Median from Data Stream.md",
     "Algorithm/leetcode/341. Flatten Nested List Iterator.md",
-    "Algorithm/leetcode/211. Maximal Square.md",
-    "etc/PocketBase.md",
-    "Frontend/FSD/FSD Tutorial with Next.js.md",
-    "Algorithm/leetcode/Drawing 2024-12-08 20.03.06.excalidraw.md",
     "Invalid date.md",
-    "Algorithm/leetcode/Untitled.md",
-    "Frontend/프론트엔드 프로젝트 아키텍처에 대한 고찰.md",
     "Frontend/비즈니스 도메인.md",
-    "Frontend/DDD.md",
-    "Frontend/SVG Animation.md",
-    "etc/test.md",
     "TS",
-    "Algorithm/data-structure/Heap1.webp",
     "Algorithm/leetcode",
     "Algorithm/data-structure",
     "Algorithm",
