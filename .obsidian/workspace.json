@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Next.js/redirect.md",
-                "mode": "preview",
+                "file": "Frontend/FSD/FSD Tutorial with Next.js.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "redirect"
+              "title": "FSD Tutorial with Next.js"
             }
           }
         ]
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Next.js/redirect.md"
+                "file": "Frontend/FSD/FSD Tutorial with Next.js.md"
               },
               "icon": "lucide-list",
-              "title": "redirect 개요"
+              "title": "FSD Tutorial with Next.js 개요"
             }
           },
           {
@@ -201,10 +201,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fee5d1fcb0387096",
+  "active": "488b884f09b5c522",
   "lastOpenFiles": [
-    "etc/프론트엔드 참고자료.md",
+    "2024-12-04.md",
+    "Frontend/FSD/FSD Tutorial with Next.js.md",
     "Next.js/redirect.md",
+    "etc/프론트엔드 참고자료.md",
     "Next.js",
     "JS/Scheduler API.md",
     "Frontend/프론트엔드 프로젝트 아키텍처에 대한 고찰.md",
@@ -228,8 +230,6 @@
     "Algorithm/leetcode/341. Flatten Nested List Iterator.md",
     "Algorithm/leetcode/211. Maximal Square.md",
     "etc/PocketBase.md",
-    "Frontend/FSD/FSD Tutorial with Next.js.md",
-    "Algorithm/leetcode/Drawing 2024-12-08 20.03.06.excalidraw.md",
     "TS",
     "Algorithm/data-structure/Heap1.webp",
     "Algorithm/leetcode",
