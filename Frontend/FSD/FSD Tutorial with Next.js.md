@@ -31,8 +31,8 @@ FSD 공홈에 있는 튜토리얼 프로젝트는 Remix 기반, app, pages, shar
 	- 전역적으로 사용되는 작은 단위의 컴포넌트
 	- 디자인 시스템 라이브러리 혹은 디자인 시스템 컴포넌트 관련 컴포넌트
 ### entities
-- `entities/(slice)/api` client side에서 api통신과 server state 관리에 사용될 useQuery, useMutation, server side에서 사용될 server action을 관리, mapper 함수 관리
-	- api 함수와 직접적으로 사용되는 함수들 
+- `entities/(slice)/api` 
+	- api 함수와 직접적으로 사용되는 함수들  (tanstack-query
 	- api 함수의 response, request, error 타입 (client side의 느낌 한번 래핑한다는 느낌)
 	- mapper 함수
 

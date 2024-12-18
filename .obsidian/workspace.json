@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e3471555df052226",
+        "id": "f2ee3368d349ff3e",
         "type": "tabs",
         "children": [
           {
-            "id": "fee5d1fcb0387096",
+            "id": "d8f029551d5a6b53",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Frontend/FSD/FSD Tutorial with Next.js.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "FSD Tutorial with Next.js"
+              "title": "새 탭"
             }
           }
         ]
@@ -138,11 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Frontend/FSD/FSD Tutorial with Next.js.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "FSD Tutorial with Next.js 개요"
+              "title": "개요"
             }
           },
           {
@@ -201,19 +195,24 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "488b884f09b5c522",
+  "active": "d8f029551d5a6b53",
   "lastOpenFiles": [
-    "2024-12-04.md",
-    "Frontend/FSD/FSD Tutorial with Next.js.md",
-    "Next.js/redirect.md",
+    "Frontend/File/이미지 미리보기 URL.md",
+    "Frontend/File/이미지 최적화.md",
+    "etc/비즈니스 도메인.md",
+    "Backend/PocketBase.md",
     "etc/프론트엔드 참고자료.md",
+    "Frontend/FSD/FSD Tutorial with Next.js.md",
+    "Backend",
+    "Frontend/Animation",
+    "Frontend/File",
+    "2024-12-04.md",
+    "Next.js/redirect.md",
     "Next.js",
     "JS/Scheduler API.md",
     "Frontend/프론트엔드 프로젝트 아키텍처에 대한 고찰.md",
-    "Frontend/SVG Animation.md",
-    "Frontend/DDD.md",
-    "Frontend/비즈니스 도메인.md",
-    "Frontend/이미지 최적화.md",
+    "Frontend/Animation/SVG Animation.md",
+    "etc/DDD.md",
     "Algorithm/leetcode/543. Diameter of Binary Tree.md",
     "Algorithm/data-structure/DFS.md",
     "Algorithm/data-structure/DP.md",
@@ -228,16 +227,12 @@
     "Algorithm/leetcode/394. Decode String.md",
     "Algorithm/leetcode/295. Find Median from Data Stream.md",
     "Algorithm/leetcode/341. Flatten Nested List Iterator.md",
-    "Algorithm/leetcode/211. Maximal Square.md",
-    "etc/PocketBase.md",
     "TS",
     "Algorithm/data-structure/Heap1.webp",
     "Algorithm/leetcode",
     "Algorithm/data-structure",
     "Algorithm",
     "etc",
-    "JS",
-    "Frontend/FSD",
-    "Frontend"
+    "JS"
   ]
 }
