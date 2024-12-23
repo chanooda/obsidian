@@ -32,8 +32,11 @@ FSD 공홈에 있는 튜토리얼 프로젝트는 Remix 기반, app, pages, shar
 	- 디자인 시스템 라이브러리 혹은 디자인 시스템 컴포넌트 관련 컴포넌트
 ### entities
 - `entities/(slice)/api` 
-	- api 함수와 직접적으로 사용되는 함수들  (tanstack-query
+	- api 함수와 직접적으로 사용되는 함수들  (tanstack-query useQuery, useMutation 관련 hook)
 	- api 함수의 response, request, error 타입 (client side의 느낌 한번 래핑한다는 느낌)
 	- mapper 함수
-
+- `entities/(slice)/model`
+	- schema 파일 (zod schema)
+	- 비즈니스 로직과 관련된 파일 (도메인과 연관된 util, custom hook, viewModel 등)
+- `entities/(slice)/`
 
