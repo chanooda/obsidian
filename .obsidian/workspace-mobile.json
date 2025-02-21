@@ -36,7 +36,8 @@
         "state": {
           "type": "file-explorer",
           "state": {
-            "sortOrder": "alphabetical"
+            "sortOrder": "alphabetical",
+            "autoReveal": false
           },
           "icon": "lucide-folder-closed",
           "title": "Files"
@@ -141,7 +142,10 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Algorithm/leetcode/394. Decode String.md"
+            "file": "Algorithm/leetcode/394. Decode String.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
           },
           "icon": "lucide-list",
           "title": "Outline"
@@ -171,8 +175,7 @@
       "obsidian-git:Open Git source control": false,
       "obsidian-projects:Open projects": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-kanban:Create new board": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-kanban:Create new board": false
     }
   },
   "active": "9de73388f37bee12",

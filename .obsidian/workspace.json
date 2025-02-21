@@ -4,20 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d7a2824fd2936b76",
+        "id": "189f9e589277e610",
         "type": "tabs",
         "children": [
           {
-            "id": "df45d0e7d80b8e4c",
+            "id": "a7cba4b4d52647fc",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": ".obsidian/plugins/remember-cursor-position/cursor-positions.json",
-                "staged": false
+                "file": "Next.js/로컬 환경 최적화.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "git-pull-request",
-              "title": "Diff View (cursor-positions.json)"
+              "icon": "lucide-file",
+              "title": "로컬 환경 최적화"
             }
           }
         ]
@@ -39,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTime"
+                "sortOrder": "byCreatedTime",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "파일 탐색기"
@@ -69,7 +71,7 @@
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "title": "북마크"
             }
           }
         ]
@@ -137,9 +139,14 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "Next.js/로컬 환경 최적화.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
               "icon": "lucide-list",
-              "title": "개요"
+              "title": "로컬 환경 최적화 의 개요"
             }
           },
           {
@@ -185,10 +192,10 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:퀵 스위처 열기": false,
+      "switcher:빠른 전환기 열기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
       "graph:그래프 뷰 열기": false,
       "canvas:새 캔버스 만들기": false,
-      "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
       "obsidian-git:Open Git source control": false,
@@ -198,23 +205,29 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "df45d0e7d80b8e4c",
+  "active": "a7cba4b4d52647fc",
   "lastOpenFiles": [
+    "Next.js/cookies.md",
+    "Next.js/로컬 환경 최적화.md",
+    "Next.js/redirect.md",
+    "Frontend/프론트엔드 프로젝트 아키텍처에 대한 고찰.md",
+    "React",
+    "무제.md",
+    "React/Library/React Hook Form.md",
+    "etc/프론트엔드 참고자료.md",
+    "React/Library",
+    "etc/비즈니스 도메인.md",
     "Frontend/File/이미지 미리보기 URL.md",
     "Frontend/File/이미지 최적화.md",
+    "Backend/PocketBase.md",
     "Next.js/최적화.md",
     "Next.js/최적화.png",
     "Frontend/FSD/FSD Tutorial with Next.js.md",
     "JS/Object.prototype.toString.call.md",
-    "Frontend/프론트엔드 프로젝트 아키텍처에 대한 고찰.md",
-    "etc/비즈니스 도메인.md",
-    "Backend/PocketBase.md",
-    "etc/프론트엔드 참고자료.md",
     "Backend",
     "Frontend/Animation",
     "Frontend/File",
     "2024-12-04.md",
-    "Next.js/redirect.md",
     "Next.js",
     "JS/Scheduler API.md",
     "Frontend/Animation/SVG Animation.md",
@@ -227,15 +240,10 @@
     "Algorithm/leetcode/dp.md",
     "Algorithm/data-structure/백트래킹.md",
     "Algorithm/leetcode/백트래킹.md",
-    "Algorithm/leetcode/437. Path Sum III.md",
-    "Algorithm/leetcode/394. Decode String Excaildraw.md",
-    "Algorithm/leetcode/DFS.md",
     "TS",
     "Algorithm/data-structure/Heap1.webp",
     "Algorithm/leetcode",
     "Algorithm/data-structure",
-    "Algorithm",
-    "etc",
-    "JS"
+    "Algorithm"
   ]
 }
