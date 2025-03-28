@@ -4,35 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "189f9e589277e610",
+        "id": "8df2efb575761edf",
         "type": "tabs",
         "children": [
           {
-            "id": "a7cba4b4d52647fc",
+            "id": "5ac41b6a4a60a254",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Next.js/Image.md",
-                "mode": "source",
+                "file": "Frontend/프론트엔드 프로젝트 아키텍처에 대한 고찰.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Image"
-            }
-          },
-          {
-            "id": "855e2c36b69ebac4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Next.js/Image.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Image"
+              "title": "프론트엔드 프로젝트 아키텍처에 대한 고찰"
             }
           }
         ]
@@ -154,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Next.js/Image.md",
+                "file": "Frontend/프론트엔드 프로젝트 아키텍처에 대한 고찰.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Image 의 개요"
+              "title": "프론트엔드 프로젝트 아키텍처에 대한 고찰 의 개요"
             }
           },
           {
@@ -219,11 +205,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a7cba4b4d52647fc",
+  "active": "5ac41b6a4a60a254",
   "lastOpenFiles": [
+    "Frontend/FSD/FSD Tutorial with Next.js.md",
+    "etc/비즈니스 도메인.md",
+    "etc/DDD.md",
+    "etc/프론트엔드 참고자료.md",
+    "Error Note/axios Safari 중복요청.md",
     "Error Note/ios에서 촬영한 image 업로드.md",
     "Next.js/Image.md",
-    "Error Note/axios Safari 중복요청.md",
     "JS/FormData.md",
     "Backend/PocketBase.md",
     "Frontend/프론트엔드 프로젝트 아키텍처에 대한 고찰.md",
@@ -236,14 +226,11 @@
     "Next.js/cookies.md",
     "Next.js/로컬 환경 최적화.md",
     "Next.js/redirect.md",
-    "Frontend/FSD/FSD Tutorial with Next.js.md",
     "Frontend/Animation/SVG Animation.md",
     "React",
     "무제.md",
     "React/Library/React Hook Form.md",
-    "etc/프론트엔드 참고자료.md",
     "React/Library",
-    "etc/비즈니스 도메인.md",
     "Next.js/최적화.md",
     "Next.js/최적화.png",
     "JS/Object.prototype.toString.call.md",
@@ -253,7 +240,6 @@
     "2024-12-04.md",
     "Next.js",
     "JS/Scheduler API.md",
-    "etc/DDD.md",
     "Algorithm/leetcode/543. Diameter of Binary Tree.md",
     "Algorithm/data-structure/DFS.md",
     "Algorithm/data-structure/DP.md",
